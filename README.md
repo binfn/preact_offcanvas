@@ -6,7 +6,7 @@
 ## Usage
 
 ```jsx
-import React from 'react'
+import * as React from "https://esm.sh/preact@10.x.x";
 import { OffcanvasProvider, Trigger, Offcanvas } from 'https://deno.land/x/preact_offcanvas'
 
 export default function App() {
