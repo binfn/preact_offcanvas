@@ -1,4 +1,4 @@
-
+/// <reference lib="dom" />
 import { Trigger } from './trigger.tsx'
 import { OffcanvasProvider } from './provider.tsx'
 import { Offcanvas } from './core.tsx'
